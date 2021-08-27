@@ -1,4 +1,4 @@
-# minesweeper-tui
+# uno-tui
 A little project that implements the game uno based on a TUI using rust.
 
 ## Compilation
